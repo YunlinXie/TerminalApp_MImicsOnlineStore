@@ -1,0 +1,1 @@
+# TerminalApp_MImicsOnlineStore
