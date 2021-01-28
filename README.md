@@ -1,1 +1,5 @@
-# TerminalApp_MImicsOnlineStore
+# TerminalApp_MimicsOnlineStor
+An application mimics an online store to sell stationery. It is written in Java, and run in terminal. It involves the application of learned data structures & algorithms, including BST, HashTable, Heap(priority queue). The program basically include five parts: the BST's part which used to store the data of products' information, the HashTable's part which is used to stored the data (records) of customers' information, the priority queue's part which is used to store data of orders, the IO's part for login, and the main. By successfully login or sign up, a customer can buy some products from our store by placing some orders. This behavior will update the whole records of all orders, the customer's personal information (order history), and update the data of all products storage. If you login as an employee, you can add more products to your warehouse, delete products which are currently out of stock, and ship an order. I worked with other students on this project, my responsible parts are:
+BST.java & Product.java,
+HashTable.java & Customer.java & CustomerHashTable.java.
+Note: List.java and .txt files are co-working files.

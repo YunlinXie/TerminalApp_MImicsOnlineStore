@@ -1,0 +1,16 @@
+Notebook Stationary Rocket 6.79 9437 0.88
+Pencil Stationary Staedtler 3.94 4857 0.12
+Ruler Stationary Starrett 1.60 5382 0.122
+Scantron Stationary Scantron 0.30 2947 0.00
+Desk Furniture Ikea 180.00 2847 12.00
+Chair Furniture Ikea 42.00 1949 10.00
+Pen-stand Desk-Accessories Rolodex 10.69 5424 2.00
+Table-Lamp Desk-Accessories ORE 11.00 3287 1.20
+Folders Desk-Accessories Smead 3.62 3193 0.15
+Binders Desk-Accessories RingSize 5.42 7294 0.15
+Printer Electronics Brother 124.00 8530 6.50
+Printer-Ink Electronics Brother 28.97 7174 2.15
+Calculator Electronics Texas-Instruments 115.00 9174 3.50
+Batteries Electronics Energizer 14.94 3433 0.50
+Hanger Clothing-Accessories Yaheetech 35.37 8881 2.05
+Bed-Covers Bed-Accessories Mainstays 21.83 1948 2.30
